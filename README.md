@@ -1,6 +1,7 @@
-# jokes
+# Headless Wordpress
 
-> My awesome Nuxt.js project
+> building a blog home page which collect data from a wordpress website
+> it's a Nuxt.js project
 
 ## Build Setup
 
