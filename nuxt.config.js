@@ -4,6 +4,11 @@ export default {
   /*
   ** Headers of the page
   */
+ generate:{
+   routes: [
+     '/blog',
+   ],
+  },
   head: {
     title: 'Headless Wordpress',
 
